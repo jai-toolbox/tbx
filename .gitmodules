@@ -13,3 +13,6 @@
 [submodule "geometry"]
 	path = geometry
 	url = git@github.com:jai-toolbox/geometry.git
+[submodule "camera"]
+	path = camera
+	url = git@github.com:jai-toolbox/camera.git
