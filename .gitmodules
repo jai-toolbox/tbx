@@ -1,0 +1,15 @@
+[submodule "opengl"]
+	path = opengl
+	url = git@github.com:jai-toolbox/opengl.git
+[submodule "linear_algebra"]
+	path = linear_algebra
+	url = git@github.com:jai-toolbox/linear_algebra.git
+[submodule "turns"]
+	path = turns
+	url = git@github.com:jai-toolbox/turns.git
+[submodule "math"]
+	path = math
+	url = git@github.com:jai-toolbox/math.git
+[submodule "geometry"]
+	path = geometry
+	url = git@github.com:jai-toolbox/geometry.git
