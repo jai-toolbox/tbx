@@ -16,3 +16,6 @@
 [submodule "camera"]
 	path = camera
 	url = git@github.com:jai-toolbox/camera.git
+[submodule "movement"]
+	path = movement
+	url = git@github.com:jai-toolbox/movement.git
