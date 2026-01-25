@@ -19,3 +19,9 @@
 [submodule "movement"]
 	path = movement
 	url = git@github.com:jai-toolbox/movement.git
+[submodule "network"]
+	path = network
+	url = git@github.com:jai-toolbox/network.git
+[submodule "serialize"]
+	path = serialize
+	url = git@github.com:jai-toolbox/serialize.git
