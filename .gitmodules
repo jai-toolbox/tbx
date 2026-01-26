@@ -25,3 +25,6 @@
 [submodule "serialize"]
 	path = serialize
 	url = git@github.com:jai-toolbox/serialize.git
+[submodule "time"]
+	path = time
+	url = git@github.com:jai-toolbox/time.git
