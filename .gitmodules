@@ -31,3 +31,6 @@
 [submodule "model_loading"]
 	path = model_loading
 	url = git@github.com:jai-toolbox/model_loading.git
+[submodule "collision"]
+	path = collision
+	url = git@github.com:jai-toolbox/collision.git
