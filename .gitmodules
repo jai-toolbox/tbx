@@ -7,9 +7,6 @@
 [submodule "turns"]
 	path = turns
 	url = git@github.com:jai-toolbox/turns.git
-[submodule "math"]
-	path = math
-	url = git@github.com:jai-toolbox/math.git
 [submodule "geometry"]
 	path = geometry
 	url = git@github.com:jai-toolbox/geometry.git
@@ -37,3 +34,6 @@
 [submodule "rectangle"]
 	path = rectangle
 	url = git@github.com:jai-toolbox/rectangle.git
+[submodule "tbx_math"]
+	path = tbx_math
+	url = git@github.com:jai-toolbox/tbx_math.git
