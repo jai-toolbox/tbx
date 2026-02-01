@@ -37,3 +37,6 @@
 [submodule "tbx_math"]
 	path = tbx_math
 	url = git@github.com:jai-toolbox/tbx_math.git
+[submodule "tbx_engine"]
+	path = tbx_engine
+	url = git@github.com:jai-toolbox/tbx_engine.git
