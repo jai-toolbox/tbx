@@ -40,3 +40,6 @@
 [submodule "math"]
 	path = math
 	url = git@github.com:jai-toolbox/math.git
+[submodule "temporal_binary_switch"]
+	path = temporal_binary_switch
+	url = git@github.com:jai-toolbox/temporal_binary_switch.git
