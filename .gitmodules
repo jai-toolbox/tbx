@@ -34,6 +34,12 @@
 [submodule "rectangle"]
 	path = rectangle
 	url = git@github.com:jai-toolbox/rectangle.git
-[submodule "tbx_math"]
-	path = tbx_math
-	url = git@github.com:jai-toolbox/tbx_math.git
+[submodule "engine"]
+	path = engine
+	url = git@github.com:jai-toolbox/engine.git
+[submodule "math"]
+	path = math
+	url = git@github.com:jai-toolbox/math.git
+[submodule "temporal_binary_switch"]
+	path = temporal_binary_switch
+	url = git@github.com:jai-toolbox/temporal_binary_switch.git
