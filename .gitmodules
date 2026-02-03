@@ -43,3 +43,6 @@
 [submodule "temporal_binary_switch"]
 	path = temporal_binary_switch
 	url = git@github.com:jai-toolbox/temporal_binary_switch.git
+[submodule "networked_interpolator"]
+	path = networked_interpolator
+	url = git@github.com:jai-toolbox/networked_interpolator.git
