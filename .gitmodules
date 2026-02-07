@@ -46,3 +46,6 @@
 [submodule "networked_interpolator"]
 	path = networked_interpolator
 	url = git@github.com:jai-toolbox/networked_interpolator.git
+[submodule "configuration"]
+	path = configuration
+	url = git@github.com:jai-toolbox/configuration.git
