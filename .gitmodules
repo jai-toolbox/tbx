@@ -49,3 +49,6 @@
 [submodule "configuration"]
 	path = configuration
 	url = git@github.com:jai-toolbox/configuration.git
+[submodule "circular_array"]
+	path = circular_array
+	url = git@github.com:jai-toolbox/circular_array.git
