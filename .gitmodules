@@ -52,3 +52,6 @@
 [submodule "circular_array"]
 	path = circular_array
 	url = git@github.com:jai-toolbox/circular_array.git
+[submodule "physics"]
+	path = physics
+	url = git@github.com:jai-toolbox/physics.git
