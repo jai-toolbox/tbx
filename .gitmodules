@@ -55,3 +55,6 @@
 [submodule "physics"]
 	path = physics
 	url = git@github.com:jai-toolbox/physics.git
+[submodule "frame_profiler"]
+	path = frame_profiler
+	url = git@github.com:jai-toolbox/frame_profiler.git
