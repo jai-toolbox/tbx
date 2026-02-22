@@ -61,3 +61,6 @@
 [submodule "section_logger"]
 	path = section_logger
 	url = git@github.com:jai-toolbox/section_logger.git
+[submodule "texture_packing"]
+	path = texture_packing
+	url = git@github.com:jai-toolbox/texture_packing.git
