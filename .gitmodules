@@ -64,3 +64,6 @@
 [submodule "texture_packing"]
 	path = texture_packing
 	url = git@github.com:jai-toolbox/texture_packing.git
+[submodule "json"]
+	path = json
+	url = git@github.com:jai-toolbox/json.git
