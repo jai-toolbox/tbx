@@ -67,3 +67,9 @@
 [submodule "json"]
 	path = json
 	url = git@github.com:jai-toolbox/json.git
+[submodule "light_baker"]
+	path = light_baker
+	url = git@github.com:jai-toolbox/light_baker.git
+[submodule "light_baking"]
+	path = light_baking
+	url = git@github.com:jai-toolbox/light_baking.git
