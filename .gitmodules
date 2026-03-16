@@ -73,3 +73,6 @@
 [submodule "light_baking"]
 	path = light_baking
 	url = git@github.com:jai-toolbox/light_baking.git
+[submodule "random"]
+	path = random
+	url = git@github.com:jai-toolbox/random.git
