@@ -76,3 +76,6 @@
 [submodule "random"]
 	path = random
 	url = git@github.com:jai-toolbox/random.git
+[submodule "hash_table"]
+	path = hash_table
+	url = git@github.com:jai-toolbox/hash_table.git
