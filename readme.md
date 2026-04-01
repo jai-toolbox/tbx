@@ -19,7 +19,9 @@ OUTPUT_EXECUTABLE_NAME :: "change_me";
     args := get_build_options().compile_time_command_line;
     target_arm := array_find(args, "-arm64");
 
-    cpu_target : CPU = ifx array_find(args, "-x64") then .X64 else ifx target_arm then .ARM64 else CPU;
+    cpu_target := CPU;
+    if array_find(args, "-x64")  cpu_target = .X64;
+    if target_arm                cpu_target = .ARM64;
 
     make_directory_if_it_does_not_exist("bin", recursive = true);
 
@@ -53,8 +55,9 @@ OUTPUT_EXECUTABLE_NAME :: "change_me";
 
 #import "Basic";
 #import "Compiler";
-#import "File_Utilities";
+#import "File";
 #import "String";
+
 ```
 
 You can now just run `jai build.jai` and tbx is ready to be `#import`ed into your `main.jai` file.
