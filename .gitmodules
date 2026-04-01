@@ -79,3 +79,6 @@
 [submodule "hash_table"]
 	path = hash_table
 	url = git@github.com:jai-toolbox/hash_table.git
+[submodule "ui"]
+	path = ui
+	url = git@github.com:jai-toolbox/ui.git
