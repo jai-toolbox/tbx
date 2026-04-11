@@ -82,9 +82,6 @@
 [submodule "ui"]
 	path = ui
 	url = git@github.com:jai-toolbox/ui.git
-[submodule "rename"]
-	path = rename
-	url = git@github.com:jai-toolbox/rename.git
-[submodule "find_definition"]
-	path = find_definition
-	url = git@github.com:jai-toolbox/find_definition.git
+[submodule "programming"]
+	path = programming
+	url = git@github.com:jai-toolbox/programming.git
