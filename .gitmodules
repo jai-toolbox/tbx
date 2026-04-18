@@ -82,3 +82,6 @@
 [submodule "ui"]
 	path = ui
 	url = git@github.com:jai-toolbox/ui.git
+[submodule "programming"]
+	path = programming
+	url = git@github.com:jai-toolbox/programming.git
