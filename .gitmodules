@@ -85,3 +85,6 @@
 [submodule "programming"]
 	path = programming
 	url = git@github.com:jai-toolbox/programming.git
+[submodule "arena"]
+	path = arena
+	url = git@github.com:jai-toolbox/arena.git
