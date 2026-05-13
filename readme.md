@@ -71,3 +71,7 @@ At the same time jai compiles fast, and so it's totally feasible to just clone t
 
 Our modules usually are named as verbs, so instead of naming modules as "light_baker", we name them "light_baking" this is done puposefully because in general the module that we're talking about here might not provide a single top level system called Light_Baker, but may provide many different functions and structs all related to doing light baking, maybe there's a pbr light baker and maybe there's a classic diffuse & specular light baker, so the module is referred to as light baking because it helps you do light baking, it's not trying to make you use a particular light baker.
 
+## assets 
+
+When you're starting development you usually have some data directory where you store all your asset files. When you need them you load them up by path directly, this works and is fine, but if you're a person that wants to distribute your executable, having to drag along a data directrory can be problematic. The main issue is that if you've purchased assets, then its very easy for people that use your program to steal the assets, for the most part this isn't an issue but if you purchased something and now other people can obtain that thing for free you can see the problem with that. The asset module allows you to turn these asset directories into a single binary package, which we can load inside the program, making it harder for assets to leak.
+
