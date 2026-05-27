@@ -91,3 +91,6 @@
 [submodule "assets"]
 	path = assets
 	url = git@github.com:jai-toolbox/assets.git
+[submodule "uv_unwrapping"]
+	path = uv_unwrapping
+	url = git@github.com:jai-toolbox/uv_unwrapping.git
