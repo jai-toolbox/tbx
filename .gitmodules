@@ -94,3 +94,6 @@
 [submodule "uv_unwrapping"]
 	path = uv_unwrapping
 	url = git@github.com:jai-toolbox/uv_unwrapping.git
+[submodule "physically_based_rendering"]
+	path = physically_based_rendering
+	url = git@github.com:jai-toolbox/physically_based_rendering.git
