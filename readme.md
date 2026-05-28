@@ -6,6 +6,14 @@ This code is modular to an extent, some modules may depend on others, but genera
 
 There is an engine submodule which helps you set up a window and do some basic rendering, this is useful when you're doing something generic that requires graphics, and don't want to have to go through the "making my own wrapper around opengl so that it doesn't take 10 minutes to get a triangle going" thing that can be annoying when you want results and not control. 
 
+## setting up a new project
+
+```
+git submodule add git@github.com:jai-toolbox/shaders.git data/shaders
+git submodule add git@github.com:jai-toolbox/tbx.git src/tbx
+git submodule update --init
+```
+
 ## usage
 
 Create a directory for the project you want to use tbx with, create your source directory (I usually call it src) and then add this repo in there (as submodule, or just download and plunk it in). Now I create a `build.jai` file of this form: 
