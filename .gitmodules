@@ -100,3 +100,6 @@
 [submodule "ray_tracing"]
 	path = ray_tracing
 	url = git@github.com:jai-toolbox/ray_tracing.git
+[submodule "animation"]
+	path = animation
+	url = git@github.com:jai-toolbox/animation.git
