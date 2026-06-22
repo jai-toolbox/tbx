@@ -47,6 +47,13 @@ Note that toolbox is a collection of jai modules stored as git submodules (yes I
 
 At the same time jai compiles fast, and so it's totally feasible to just clone this entire thing and start moving without incurring a large compilation cost (as you might in something like c++).
 
+If you use git, then you can create this `.gitignore`
+
+```
+bin
+.build
+```
+
 
 ## naming
 
