@@ -106,3 +106,6 @@
 [submodule "text"]
 	path = text
 	url = git@github.com:jai-toolbox/text.git
+[submodule "software_rasterizer"]
+	path = software_rasterizer
+	url = git@github.com:jai-toolbox/software_rasterizer.git
