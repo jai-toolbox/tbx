@@ -103,3 +103,6 @@
 [submodule "animation"]
 	path = animation
 	url = git@github.com:jai-toolbox/animation.git
+[submodule "text"]
+	path = text
+	url = git@github.com:jai-toolbox/text.git
