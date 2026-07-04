@@ -109,3 +109,6 @@
 [submodule "software_rasterizer"]
 	path = software_rasterizer
 	url = git@github.com:jai-toolbox/software_rasterizer.git
+[submodule "parser"]
+	path = parser
+	url = git@github.com:jai-toolbox/parser.git
