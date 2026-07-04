@@ -103,3 +103,6 @@
 [submodule "animation"]
 	path = animation
 	url = git@github.com:jai-toolbox/animation.git
+[submodule "software_rasterizer"]
+	path = software_rasterizer
+	url = git@github.com:jai-toolbox/software_rasterizer.git
