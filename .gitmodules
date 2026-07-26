@@ -112,3 +112,6 @@
 [submodule "parser"]
 	path = parser
 	url = git@github.com:jai-toolbox/parser.git
+[submodule "music"]
+	path = music
+	url = git@github.com:jai-toolbox/music.git
