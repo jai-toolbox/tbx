@@ -30,6 +30,12 @@ OUTPUT_EXECUTABLE_NAME :: "change_me";
     options := get_build_options(w);
     options.output_executable_name = OUTPUT_EXECUTABLE_NAME;
     options.output_path = "bin/";
+
+    import_path: [..] string;
+    array_add(*import_path, ..options.import_path);
+    array_add(*import_path, "src/");
+    options.import_path = import_path;
+    
     set_build_options(options, w);
 
     add_build_file("src/main.jai", w);
