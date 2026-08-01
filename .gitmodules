@@ -115,3 +115,6 @@
 [submodule "music"]
 	path = music
 	url = git@github.com:jai-toolbox/music.git
+[submodule "file"]
+	path = file
+	url = git@github.com:jai-toolbox/file.git
