@@ -121,3 +121,9 @@
 [submodule "distance_field_generation"]
 	path = distance_field_generation
 	url = git@github.com:jai-toolbox/distance_field_generation.git
+[submodule "navigation"]
+	path = navigation
+	url = git@github.com:jai-toolbox/navigation.git
+[submodule "fuzzy_matching"]
+	path = fuzzy_matching
+	url = git@github.com:jai-toolbox/fuzzy_matching.git
