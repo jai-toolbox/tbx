@@ -127,3 +127,6 @@
 [submodule "vulkan"]
 	path = vulkan
 	url = git@github.com:jai-toolbox/vulkan.git
+[submodule "web"]
+	path = web
+	url = git@github.com:jai-toolbox/web.git
