@@ -124,3 +124,6 @@
 [submodule "fuzzy_matching"]
 	path = fuzzy_matching
 	url = git@github.com:jai-toolbox/fuzzy_matching.git
+[submodule "vulkan"]
+	path = vulkan
+	url = git@github.com:jai-toolbox/vulkan.git
