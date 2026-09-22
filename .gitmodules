@@ -67,9 +67,6 @@
 [submodule "json"]
 	path = json
 	url = git@github.com:jai-toolbox/json.git
-[submodule "light_baking"]
-	path = light_baking
-	url = git@github.com:jai-toolbox/light_baking.git
 [submodule "random"]
 	path = random
 	url = git@github.com:jai-toolbox/random.git
@@ -130,3 +127,6 @@
 [submodule "web"]
 	path = web
 	url = git@github.com:jai-toolbox/web.git
+[submodule "light_baking"]
+	path = light_baking
+	url = git@github.com:jai-toolbox/light_baking.git
