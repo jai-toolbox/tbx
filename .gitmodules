@@ -133,3 +133,6 @@
 [submodule "profiling"]
 	path = profiling
 	url = git@github.com:jai-toolbox/profiling.git
+[submodule "sky"]
+	path = sky
+	url = git@github.com:jai-toolbox/sky.git
