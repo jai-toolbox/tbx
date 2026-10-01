@@ -136,3 +136,6 @@
 [submodule "sky"]
 	path = sky
 	url = git@github.com:jai-toolbox/sky.git
+[submodule "multithreading"]
+	path = multithreading
+	url = git@github.com:jai-toolbox/multithreading.git
