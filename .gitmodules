@@ -139,3 +139,6 @@
 [submodule "multithreading"]
 	path = multithreading
 	url = git@github.com:jai-toolbox/multithreading.git
+[submodule "packaging"]
+	path = packaging
+	url = git@github.com:jai-toolbox/packaging.git
