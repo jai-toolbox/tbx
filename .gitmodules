@@ -142,3 +142,9 @@
 [submodule "packaging"]
 	path = packaging
 	url = git@github.com:jai-toolbox/packaging.git
+[submodule "array"]
+	path = array
+	url = git@github.com:jai-toolbox/array.git
+[submodule "sort"]
+	path = sort
+	url = git@github.com:jai-toolbox/sort.git
