@@ -148,3 +148,6 @@
 [submodule "sort"]
 	path = sort
 	url = git@github.com:jai-toolbox/sort.git
+[submodule "utf"]
+	path = utf
+	url = git@github.com:jai-toolbox/utf.git
