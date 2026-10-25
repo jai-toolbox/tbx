@@ -10,7 +10,7 @@ There is an engine submodule which helps you set up a window and do some basic r
 
 ```
 git submodule add git@github.com:jai-toolbox/shaders.git data/shaders
-git submodule add git@github.com:jai-toolbox/tbx.git src/tbx
+git submodule add git@github.com:jai-toolbox/tbx.git modules/tbx
 git submodule update --init --recursive
 ```
 
