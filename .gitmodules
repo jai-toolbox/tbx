@@ -154,3 +154,6 @@
 [submodule "virtual_gpu_rendering"]
 	path = virtual_gpu_rendering
 	url = git@github.com:jai-toolbox/virtual_gpu_rendering.git
+[submodule "effect_baking"]
+	path = effect_baking
+	url = git@github.com:jai-toolbox/effect_baking.git
